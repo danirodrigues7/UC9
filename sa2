@@ -1,0 +1,70 @@
+<html>
+
+<head>
+
+    <link rel="stylesheet" type="text/css" href="./css/main.css">
+
+    <meta charset="UTF-8">
+    <title>Game Mania</title>
+</head>
+
+<body>
+    <header class="menu-principal">
+        <main>
+<div class="header-1"></div>        
+        <div>
+            <a href="">
+                <img class="logo" src="img/logo.png" alt="">
+        </div>
+        
+        <main class="col-100 menu-urls">
+            <div class="header-2">
+        <div class="menu">
+    <ul>
+        <li>
+            <a href="">Jogos</a>
+        </li>
+        <li>
+            <a href="">Consoles</a>
+        </li>
+        <li>
+            <a href="">Acessórios</a>
+        </li>
+        <li>
+            <a href="">Personalize</a>
+        </li>
+        
+    </ul>
+
+    <div class="busca">
+        <input placeholder="Olá, o que você deseja?" type="text" />
+    </div>
+      
+
+
+</div>
+
+    </div>    
+
+      </main>
+      <div class="col-100">
+        <div class="slider-principal">
+            <img src="./img/banner.png" />
+            <img src="./img/bannner.png" />
+            
+                        
+     
+        </div>
+
+        <nav>
+            <h1>Institucional>
+            </h1>
+
+
+
+        </nav>
+    </header>
+
+</body>
+
+</html>
